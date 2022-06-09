@@ -1,0 +1,2 @@
+[00:01:02]: [Join Announcement] Tag mig hånden
+[00:01:12]: [Leave Announcement] Tag mig hånden

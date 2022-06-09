@@ -1,0 +1,105 @@
+[00:25:02]: [Join Announcement] Tag mig hånden
+[00:26:26]: [Leave Announcement] Tag mig hånden
+[00:27:23]: [Join Announcement] 3169799914
+[00:27:26]: [Join Announcement] 493937767
+[00:31:09]: [Join Announcement] Tag mig hånden
+[00:40:13]: [Skin Announcement] 493937767 feet_wx78_gladiator
+[00:51:29]: [Skin Announcement] Tag mig hånden legs_warly_victorian
+[01:01:33]: [Leave Announcement] Tag mig hånden
+[01:02:19]: [Join Announcement] Tag mig hånden
+[01:03:27]: [Death Announcement] Tag mig hånden 死于： 兔人。她变成了可怕的鬼魂！
+[01:03:30]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:04:46]: [Death Announcement] 3169799914 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[01:05:15]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:05:39]: [Death Announcement] 3169799914 死于： 黑暗。他变成了可怕的鬼魂！
+[01:06:19]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:09:00]: [Death Announcement] 493937767 死于： 恐怖尖喙。它变成了可怕的鬼魂！
+[01:09:04]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:10:59]: [Death Announcement] Tag mig hånden 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:11:01]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:11:11]: [Death Announcement] Tag mig hånden 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:11:19]: [Death Announcement] 493937767 死于： 蜘蛛。它变成了可怕的鬼魂！
+[01:11:31]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:12:17]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:12:54]: [Death Announcement] Tag mig hånden 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:13:19]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:14:02]: [Death Announcement] Tag mig hånden 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:14:04]: [Death Announcement] 493937767 死于： 蜘蛛。它变成了可怕的鬼魂！
+[01:14:06]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:14:19]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:14:43]: [Death Announcement] Tag mig hånden 死于： 蜘蛛战士。她变成了可怕的鬼魂！
+[01:14:56]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:15:07]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:15:23]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:15:56]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:16:50]: [Death Announcement] Tag mig hånden 死于： 蜘蛛。她变成了可怕的鬼魂！
+[01:16:54]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:17:09]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:18:08]: [Death Announcement] Tag mig hånden 死于： 冻伤。她变成了可怕的鬼魂！
+[01:18:10]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:19:46]: [Death Announcement] Tag mig hånden 死于： 冻伤。她变成了可怕的鬼魂！
+[01:19:59]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:20:44]: [Death Announcement] 493937767 死于： 洞穴蝙蝠。它变成了可怕的鬼魂！
+[01:20:45]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:21:04]: [Death Announcement] 493937767 死于： 洞穴蝙蝠。它变成了可怕的鬼魂！
+[01:21:45]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:21:53]: [Death Announcement] 3169799914 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[01:21:56]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:24:14]: [Death Announcement] Tag mig hånden 死于： 猪人。她变成了可怕的鬼魂！
+[01:24:16]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:26:31]: [Death Announcement] 493937767 死于： 触手。它变成了可怕的鬼魂！
+[01:26:40]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:27:50]: [Death Announcement] 493937767 死于： 蜘蛛战士。它变成了可怕的鬼魂！
+[01:27:59]: [Death Announcement] 3169799914 死于： 恐怖尖喙。他变成了可怕的鬼魂！
+[01:28:00]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:28:03]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:28:44]: [Death Announcement] Tag mig hånden 死于： 企鸥。她变成了可怕的鬼魂！
+[01:28:53]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:29:21]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:29:23]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:30:44]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:30:45]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:31:19]: [Death Announcement] 493937767 死于： 触手。它变成了可怕的鬼魂！
+[01:31:46]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:32:00]: [Death Announcement] 493937767 死于： 鱼人。它变成了可怕的鬼魂！
+[01:32:46]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:33:16]: [Death Announcement] 3169799914 死于： 猎犬。他变成了可怕的鬼魂！
+[01:33:17]: [Death Announcement] Tag mig hånden 死于： 猎犬。她变成了可怕的鬼魂！
+[01:33:19]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:33:26]: [Death Announcement] Tag mig hånden 死于： 猎犬。她变成了可怕的鬼魂！
+[01:33:32]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:33:40]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:33:56]: [Death Announcement] 3169799914 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[01:34:19]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:34:39]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:35:05]: [Death Announcement] Tag mig hånden 死于： 猎犬。她变成了可怕的鬼魂！
+[01:35:25]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:35:46]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:36:59]: [Death Announcement] Tag mig hånden 死于： 冻伤。她变成了可怕的鬼魂！
+[01:37:00]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:38:35]: [Death Announcement] Tag mig hånden 死于： 冻伤。她变成了可怕的鬼魂！
+[01:38:37]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:40:13]: [Death Announcement] Tag mig hånden 死于： 冻伤。她变成了可怕的鬼魂！
+[01:40:55]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:41:41]: [Death Announcement] 3169799914 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
+[01:41:45]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:42:04]: [Death Announcement] 3169799914 死于： 爬行恐惧。他变成了可怕的鬼魂！
+[01:42:04]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:42:07]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:42:46]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:42:47]: [Death Announcement] 493937767 死于： 洞穴蝙蝠。它变成了可怕的鬼魂！
+[01:43:07]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:43:18]: [Death Announcement] 493937767 死于： 洞穴蝙蝠。它变成了可怕的鬼魂！
+[01:44:28]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:45:49]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:45:50]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:47:12]: [Death Announcement] 493937767 死于： 冻伤。它变成了可怕的鬼魂！
+[01:48:15]: [Death Announcement] Tag mig hånden 死于： 饥饿。她变成了可怕的鬼魂！
+[01:48:25]: [Resurrect Announcement] 493937767 复活自： 恶作剧.
+[01:49:57]: [Skin Announcement] 493937767 wilson_beard_magma
+[01:50:11]: [Leave Announcement] 493937767
+[01:51:52]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[01:51:55]: [Death Announcement] 3169799914 死于： 洞穴蝙蝠。他变成了可怕的鬼魂！
+[01:52:00]: [Resurrect Announcement] 3169799914 复活自： 恶作剧.
+[01:56:07]: [Leave Announcement] 3169799914
+[01:56:07]: [Leave Announcement] Tag mig hånden

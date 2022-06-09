@@ -1,0 +1,13 @@
+[00:00:44]: [Join Announcement] Tag mig hånden
+[00:00:45]: [Announcement] 『树精守卫』
+[00:00:45]: [Announcement] 󰀏〖 帝王蟹 〗已刷新󰀏
+[00:00:45]: [Announcement] 『树精守卫』
+[00:00:45]: [Announcement] 『树精守卫』
+[00:00:45]: [Announcement] 『树精守卫』
+[00:02:26]: [Death Announcement] Tag mig hånden 死于： 杀人蜂。它变成了可怕的鬼魂！
+[00:02:33]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[00:03:13]: [Death Announcement] Tag mig hånden 死于： 发条战车。它变成了可怕的鬼魂！
+[00:03:34]: [Resurrect Announcement] Tag mig hånden 复活自： 恶作剧.
+[00:05:02]: [Announcement] Tag mig hånden   死于黑暗 获得成就【萌新】
+[00:05:04]: [Death Announcement] Tag mig hånden 死于： 黑暗。它变成了可怕的鬼魂！
+[00:06:46]: [Leave Announcement] Tag mig hånden
